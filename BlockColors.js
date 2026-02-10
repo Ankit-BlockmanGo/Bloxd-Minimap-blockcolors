@@ -1,4 +1,4 @@
-const blockColors = {
+window.BLOXD_BLOCK_COLORS = {
         0: "",
         //air
         1: "",
@@ -491,4 +491,5 @@ const blockColors = {
         2044: "#f9cf3a",
         1512: "#d6b23c",
 }
+
  
