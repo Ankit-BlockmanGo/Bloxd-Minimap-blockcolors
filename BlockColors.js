@@ -467,6 +467,7 @@ window.BLOXD_BLOCK_COLORS = {
         950: "#393939",
         97: "#d0d6d7",
         245: "#bbd8c8",
+        106: "#78908F",
         228: "#f6eedf",
         2043: "#dadedf",
         66: "#18191e",
@@ -493,3 +494,4 @@ window.BLOXD_BLOCK_COLORS = {
 }
 
  
+
