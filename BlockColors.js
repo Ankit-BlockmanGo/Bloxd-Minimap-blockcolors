@@ -1,5 +1,4 @@
-
-window.BLOXD_BLOCK_COLORS = {
+{
         0: "",
         //air
         1: "",
@@ -1168,3 +1167,4 @@ window.BLOXD_BLOCK_COLORS = {
         1960: '#0F9208',
         1961: '#0F9208',
 }
+
